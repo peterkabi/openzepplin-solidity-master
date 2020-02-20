@@ -1,7 +1,7 @@
 pragma solidity ^0.4.23;
 
 
-import "../ownership/Ownable.sol";
+import "https://github.com/peterkabi/openzepplin-solidity-master/blob/master/ownership/Ownable.sol";
 
 
 /**
